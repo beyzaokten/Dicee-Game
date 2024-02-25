@@ -20,3 +20,8 @@ In the Dicee game, two players take turns rolling dice. After each roll, the pla
 - HTML5
 - CSS3
 - JavaScript
+
+![dice](https://github.com/beyzaokten/Dicee-Game/assets/95380183/eac6caa2-0a63-4619-bb6f-65f6bd139d8a)
+![dice2](https://github.com/beyzaokten/Dicee-Game/assets/95380183/efdbe850-a62d-46d7-b2fc-30b339f41b80)
+![dice3](https://github.com/beyzaokten/Dicee-Game/assets/95380183/907b9df6-ca5b-4918-87c5-646f300e929b)
+
